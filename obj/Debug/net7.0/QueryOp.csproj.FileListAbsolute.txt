@@ -1,0 +1,15 @@
+C:\Users\Arnold\workspace\Extra-csharp\linq\QueryOp\bin\Debug\net7.0\QueryOp.exe
+C:\Users\Arnold\workspace\Extra-csharp\linq\QueryOp\bin\Debug\net7.0\QueryOp.deps.json
+C:\Users\Arnold\workspace\Extra-csharp\linq\QueryOp\bin\Debug\net7.0\QueryOp.runtimeconfig.json
+C:\Users\Arnold\workspace\Extra-csharp\linq\QueryOp\bin\Debug\net7.0\QueryOp.dll
+C:\Users\Arnold\workspace\Extra-csharp\linq\QueryOp\bin\Debug\net7.0\QueryOp.pdb
+C:\Users\Arnold\workspace\Extra-csharp\linq\QueryOp\obj\Debug\net7.0\QueryOp.csproj.AssemblyReference.cache
+C:\Users\Arnold\workspace\Extra-csharp\linq\QueryOp\obj\Debug\net7.0\QueryOp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arnold\workspace\Extra-csharp\linq\QueryOp\obj\Debug\net7.0\QueryOp.AssemblyInfoInputs.cache
+C:\Users\Arnold\workspace\Extra-csharp\linq\QueryOp\obj\Debug\net7.0\QueryOp.AssemblyInfo.cs
+C:\Users\Arnold\workspace\Extra-csharp\linq\QueryOp\obj\Debug\net7.0\QueryOp.csproj.CoreCompileInputs.cache
+C:\Users\Arnold\workspace\Extra-csharp\linq\QueryOp\obj\Debug\net7.0\QueryOp.dll
+C:\Users\Arnold\workspace\Extra-csharp\linq\QueryOp\obj\Debug\net7.0\refint\QueryOp.dll
+C:\Users\Arnold\workspace\Extra-csharp\linq\QueryOp\obj\Debug\net7.0\QueryOp.pdb
+C:\Users\Arnold\workspace\Extra-csharp\linq\QueryOp\obj\Debug\net7.0\QueryOp.genruntimeconfig.cache
+C:\Users\Arnold\workspace\Extra-csharp\linq\QueryOp\obj\Debug\net7.0\ref\QueryOp.dll
